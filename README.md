@@ -1,3 +1,5 @@
+아래는 전체 C++ 코드입니다:
+
 #include <iostream>
 #include <vector>
 #include <cstdlib>
